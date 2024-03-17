@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/BhanuTeja_Portfolio/static/css/main.5a06c9bc.css",
+    "main.js": "/BhanuTeja_Portfolio/static/js/main.a36965ec.js",
+    "static/js/415.4d6acbeb.chunk.js": "/BhanuTeja_Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/BhanuTeja_Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/travedo.png": "/BhanuTeja_Portfolio/static/media/travedo.b6a8f67d5224ab0b2f2d.png",
+    "static/media/sociosphere.png": "/BhanuTeja_Portfolio/static/media/sociosphere.2377a718f9bba60d1d7c.png",
+    "static/media/weather.png": "/BhanuTeja_Portfolio/static/media/weather.2c3829ab04035f30c31d.png",
+    "static/media/CustomerChurn.png": "/BhanuTeja_Portfolio/static/media/CustomerChurn.d9a0dfcbbaddfc9551d9.png",
+    "static/media/home-main.svg": "/BhanuTeja_Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/SRIRAMSETTY_BHANU_TEJA.pdf": "/BhanuTeja_Portfolio/static/media/SRIRAMSETTY_BHANU_TEJA.1a82b08c30c88d3e7f04.pdf",
+    "static/media/about.png": "/BhanuTeja_Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/tictactoe.png": "/BhanuTeja_Portfolio/static/media/tictactoe.f59df80457829e7db2fc.png",
+    "static/media/logo.png": "/BhanuTeja_Portfolio/static/media/logo.44fff53e9c8717a086f5.png",
+    "static/media/home-bg.jpg": "/BhanuTeja_Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/BhanuTeja_Portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/BhanuTeja_Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/BhanuTeja_Portfolio/index.html",
+    "main.5a06c9bc.css.map": "/BhanuTeja_Portfolio/static/css/main.5a06c9bc.css.map",
+    "main.a36965ec.js.map": "/BhanuTeja_Portfolio/static/js/main.a36965ec.js.map",
+    "415.4d6acbeb.chunk.js.map": "/BhanuTeja_Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/BhanuTeja_Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a06c9bc.css",
+    "static/js/main.a36965ec.js"
+  ]
+}
